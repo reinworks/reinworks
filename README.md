@@ -28,55 +28,11 @@ Currently rebuilding my portfolio while exploring scalable systems, databases an
 
 ## Featured Projects
 
-### ERP Clinical Platform
-
-Final degree project based on microservices architecture.
-
-Tech:
-NestJS · ReactJS · MongoDB · Docker · DigitalOcean
-
-Features:
-
-* API Gateway
-* Authentication
-* Patient Management
-* Notifications
-* Clinical Workflows
-
-→ Architecture showcase available.
-[Open Project →](https://github.com/reinworks/erp-clinical-platform-showcase)
-
----
-
-## Technologies
-
-Backend
-
-* TypeScript
-* NestJS
-* REST APIs
-
-Frontend
-
-* ReactJS
-* HTML
-* CSS
-
-Infrastructure
-
-* Docker
-* Linux
-* Cloud Deployment
-
-Databases
-
-* MongoDB
-* PostgreSQL (currently learning deeper concepts)
-
-Tools
-
-* Git
-* GitHub
+| Project | Description |
+|---|---|
+| [ERP Clinical Platform](https://github.com/reinworks/erp-clinical-platform-showcase) | Microservices clinical ERP - Architectura showcase available |
+| [SQL Study Lab](LINK) | SQL practice and database concepts |
+| [Cloud Lab](LINK) | Infrastructure and cloud experiments |
 
 ---
 
