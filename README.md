@@ -1,16 +1,101 @@
-## Hi there 👋
+# Hi, I'm Eric 👋
 
-<!--
-**reinworks/reinworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate focused on building knowledge and projects around:
 
-Here are some ideas to get you started:
+☁️ Cloud Computing
+🗄️ Database Systems
+🐳 Infrastructure & DevOps
+📊 Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently rebuilding my portfolio while exploring scalable systems, databases and cloud technologies.
+
+---
+
+## Current Focus
+
+* PostgreSQL
+* SQL & Database Design
+* Power BI
+* Docker
+* Linux
+* Cloud Fundamentals
+
+---
+
+## Featured Projects
+
+### ERP Clinical Platform
+
+Final degree project based on microservices architecture.
+
+Tech:
+NestJS · ReactJS · MongoDB · Docker · DigitalOcean
+
+Features:
+
+* API Gateway
+* Authentication
+* Patient Management
+* Notifications
+* Clinical Workflows
+
+→ Architecture showcase available.
+
+---
+
+## Technologies
+
+Backend
+
+* TypeScript
+* NestJS
+* REST APIs
+
+Frontend
+
+* ReactJS
+* HTML
+* CSS
+
+Infrastructure
+
+* Docker
+* Linux
+* Cloud Deployment
+
+Databases
+
+* MongoDB
+* PostgreSQL (currently learning deeper concepts)
+
+Tools
+
+* Git
+* GitHub
+
+---
+
+## Current Learning Roadmap
+
+Database Engineering
+→ Advanced SQL
+→ PostgreSQL
+→ Power BI
+
+Infrastructure
+→ Docker
+→ Linux
+→ Cloud
+
+Future:
+→ DevOps
+→ Monitoring
+→ CI/CD
+
+---
+
+## Contact
+
+LinkedIn
+
+Email
