@@ -22,6 +22,10 @@ Currently rebuilding my portfolio while exploring scalable systems, databases an
 
 ---
 
+## Company
+
+---
+
 ## Featured Projects
 
 ### ERP Clinical Platform
@@ -40,6 +44,7 @@ Features:
 * Clinical Workflows
 
 → Architecture showcase available.
+[Open Project →](https://github.com/reinworks/erp-clinical-platform-showcase)
 
 ---
 
@@ -96,6 +101,8 @@ Future:
 
 ## Contact
 
-LinkedIn
+Professional profile:
+[LinkedIn Profile](https://www.linkedin.com/in/eric-amaya-henriquez)
 
-Email
+Email:
+e.amaya0029@gmail.com
