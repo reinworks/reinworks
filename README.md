@@ -30,7 +30,7 @@ Currently rebuilding my portfolio while exploring scalable systems, databases an
 
 | Project | Description |
 |---|---|
-| [ERP Clinical Platform](https://github.com/reinworks/erp-clinical-platform-showcase) | Microservices clinical ERP - Architectura showcase available |
+| [ERP Clinical Platform](https://github.com/reinworks/erp-clinical-platform-showcase) | Microservices clinical ERP - Final degree project based on microservices architecture - Architectura showcase available |
 | [SQL Study Lab](LINK) | SQL practice and database concepts |
 | [Cloud Lab](LINK) | Infrastructure and cloud experiments |
 
